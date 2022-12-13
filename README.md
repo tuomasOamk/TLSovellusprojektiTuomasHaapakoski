@@ -6,7 +6,5 @@ What project is all about:
 - TCP-interface 
 - HTTP API
 - Gather data from the interface to your UE
-
-![image](https://user-images.githubusercontent.com/99179437/199221069-76acd93a-5e82-4ae8-8985-6e05286f722b.png)
-
+![image](https://user-images.githubusercontent.com/99179437/207415999-14c23506-a962-4871-ba4d-e89c0ad7313e.png)
 
