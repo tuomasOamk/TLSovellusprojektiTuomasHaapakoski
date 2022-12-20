@@ -1,4 +1,5 @@
 TLSovellusprojekti Tuomas Haapakoski A repository for my project by Tuomas Haapakoski 
+![image](https://user-images.githubusercontent.com/99179437/207415999-14c23506-a962-4871-ba4d-e89c0ad7313e.png)
 
 What project is all about? 
 
@@ -25,7 +26,7 @@ I used the center points file I got from K-means algorithm and the code from Ard
 Confusion matrix 
 
 I made a confusion matrix Python file and used scikit-learn confusion matrix function. I made with PuTTY client program a file for the Arduino K-means algorithm results and used it to make the confusion matrix. I used the confusion matrix to show how accurate my algorithm is. It showed me perfect accuracy apart from couple position errors which were made when I had the accelerometer in wrong position during calculations.    
-![image](https://user-images.githubusercontent.com/99179437/207415999-14c23506-a962-4871-ba4d-e89c0ad7313e.png)
+
 
 ![kuva](https://user-images.githubusercontent.com/99179437/208653038-5efd99da-e967-4584-95e5-1a4cf962559c.png)
 ![kuva](https://user-images.githubusercontent.com/99179437/208653233-9e63e147-6ae5-4231-8f11-3d081bde6f06.png)
